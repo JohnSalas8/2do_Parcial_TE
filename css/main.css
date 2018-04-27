@@ -1,0 +1,46 @@
+#logo  {
+    height: 50%;
+    width: 50%;
+}
+
+.container {
+    text-align: center;
+}
+
+div[class="container"] {
+    margin-top:50px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+tr, td {
+    border: white 10px solid;
+}
+
+input, select {
+    padding: 5px;
+}
+
+input[type="text"], input[type="email"], select {
+    width: 15em;
+}
+
+#titulo-tabla {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+button[type="submit"] {
+    background: #00b300;
+    border: white 0px solid;
+    padding: 8px;
+    width: 15em;
+    color: white;
+    font-weight: bold;
+}
+
+#mssg {
+    color: red;
+}
